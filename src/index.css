@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#herosection{
+    background: linear-gradient(180deg, #141125 75.94%, #493F8B 113.51%);
+backdrop-filter: blur(100px);
+}
